@@ -22,7 +22,7 @@ main:
     
   - title: "CV"
     # URL: "https://kareem-Abdelmaqsoud.github.io/files/cv.pdf"
-    URL: /files/cv.pdf
+    url: /files/cv.pdf
 
     
   # - title: "Guide"
