@@ -25,8 +25,8 @@ author:
   name             : "Kareem Abdelmaqsoud"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Carnegie Mellon University"
+  location         : "Pittsburgh, PA"
+  employer         : #"Carnegie Mellon University"
   uri              : # URL
   email            : "kabdelma@andrew.cmu.edu" 
 
@@ -47,7 +47,6 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
