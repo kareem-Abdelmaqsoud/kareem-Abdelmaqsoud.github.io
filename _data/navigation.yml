@@ -6,7 +6,8 @@
 
 main:
   - title: "Publications"
-    url: /publications/
+    # url: /publications/
+    url: "https://scholar.google.com/citations?user=8j9o9qQAAAAJ&hl=en"
 
   # - title: "Talks"
   #   url: /talks/    
@@ -21,7 +22,6 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    # URL: "https://kareem-Abdelmaqsoud.github.io/files/cv.pdf"
     url: /files/cv.pdf
 
     
