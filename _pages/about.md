@@ -16,13 +16,10 @@ About Me
 Research Contributions
 ======
 
-Site-wide configuration
-------
-
 Industrial Experience
 ------
 
-Extracurricular activities
+Extracurricular Activities
 ------
 
 Recent News
