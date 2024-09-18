@@ -7,35 +7,24 @@ redirect_from:
   - /about.html
 ---
 
+
+
+About Me
+======
 3rd-year PhD Student at Carnegie Mellon Chemical Engineering
 
-A data-driven personal website
+Research Contributions
 ======
-Hello
-
-Getting started
-======
-Hola
 
 Site-wide configuration
 ------
-Hi 
 
-Create content & metadata
+Industrial Experience
 ------
-Yello
 
-**Markdown generator**
-
-Heyyy
-
-How to edit your site's GitHub repository
+Extracurricular activities
 ------
-bye
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
+Recent News
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
