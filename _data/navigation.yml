@@ -21,7 +21,8 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    URL: "https://kareem-Abdelmaqsoud.github.io/files/cv.pdf"
+    # URL: "https://kareem-Abdelmaqsoud.github.io/files/cv.pdf"
+    URL: /files/cv.pdf
 
     
   # - title: "Guide"
