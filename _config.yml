@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Kareem Abdelmaqsoud / Personal Website"
+title                    : "Personal Website"
 title_separator          : "-"
 name                     : &name "Kareem Abdelmaqsoud"
 description              : &description "3rd-year PhD Student at Carnegie Mellon Chemical Engineering"
