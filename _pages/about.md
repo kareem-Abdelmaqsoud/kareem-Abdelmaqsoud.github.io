@@ -15,6 +15,9 @@ I am a 3rd-year PhD student at the Chemical Engineering department at Carnegie M
 
 Research Contributions
 ------
+Investigating the error imbalance of large-scale machine learning potentials in catalysis [Royal Society of Chemistry]
+
+Structure Sensitive Reaction Kinetics of Chiral Molecules on Intrinsically Chiral Surfaces [American Chemical Society]
 
 
 
