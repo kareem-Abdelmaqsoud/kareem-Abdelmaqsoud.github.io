@@ -26,7 +26,7 @@ Industrial Experience
 **Iambic Therapeutics** (Jan 2022 – July 2022):\
 I interned in a machine learning for drug discovery startup, Iambic Therapeutics, as a machine learning engineer. I worked on optimizing pretraining and downstream models used for screening by the chemistry and biology teams. I implemented new model architectures from the literature and evaluated them based on the company's internal benchmarks. I learned about the work environment in a startup and improved my ability to communicate and collaborate with experimental collaborators\
 **LafargeHolcim** (Summer 2019):\
-I interned with a construction materials company, LafargeHolcim, as a process engineer. I worked on designing a waste heat recovery system for the plant that could theoretically reduce the energy need of the plant by 3%. I also learned about the roles taken by process engineers and the decisions they make to ensure the safe operation of an industrial plant.\
+I interned with a construction materials company, LafargeHolcim, as a process engineer. I worked on designing a waste heat recovery system for the plant that could theoretically reduce the energy need of the plant by 3%. I also learned about the roles taken by process engineers and the decisions they make to ensure the safe operation of an industrial plant.
   
 Extracurricular Activities
 ------
