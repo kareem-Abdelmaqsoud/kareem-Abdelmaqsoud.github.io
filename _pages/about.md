@@ -16,7 +16,7 @@ I am a 3rd-year PhD student at the Chemical Engineering department at Carnegie M
 Research Contributions
 ------
 Investigating the error imbalance of large-scale machine learning potentials in catalysis [Royal Society of Chemistry]\
-I investigated the effect of Density Functional Theory (DFT) data consistency on the errors of large-scale machine learning potentials. I showed that the Machine learning potentials are not affected by the convergence of the DFT calculations with respect to the DFT settings. I find that an abnormal behavior during a DFT calculation causes inconsistency to the referencing scheme and that removing the systems with this behavior reduces the machine learning errors by $\sim{35}\%$. 
+I investigated the effect of Density Functional Theory (DFT) data consistency on the errors of large-scale machine learning potentials. I showed that the Machine learning potentials are not affected by the convergence of the DFT calculations with respect to the DFT settings. I find that an abnormal behavior during a DFT calculation causes inconsistency to the referencing scheme and that removing the systems with this behavior reduces the machine learning errors by $\sim{35}/%$. 
 
 Structure Sensitive Reaction Kinetics of Chiral Molecules on Intrinsically Chiral Surfaces [American Chemical Society]\
 I built machine learning models to fit the experimental data collected by our collaborators and used these models to draw insights about the structure sensitivity of the kinetics and design future experiments. 
