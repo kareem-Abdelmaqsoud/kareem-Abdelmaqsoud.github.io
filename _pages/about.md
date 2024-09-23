@@ -18,8 +18,8 @@ Research Contributions
 
 Industrial Experience
 ------
-Iambic Therapeutics (Jan 2022 – July 2022)
-\\\\I interned with a machine learning for drug discovery startup, Iambic Therapeutics, as a ML engineer. I worked on 
+Iambic Therapeutics (Jan 2022 – July 2022)\
+I interned with a machine learning for drug discovery startup, Iambic Therapeutics, as a ML engineer. I worked on 
 - Optimizing pretraining and downstream models used for screening by the chemistry and biology teams.
 - Implementing new model architectures from the literature and evaluating them based on the company's internal benchmarks.
   
