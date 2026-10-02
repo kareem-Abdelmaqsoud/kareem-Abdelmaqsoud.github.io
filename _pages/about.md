@@ -13,18 +13,32 @@ About Me
 ======
 I am a 3rd-year PhD student at the Chemical Engineering department at Carnegie Mellon University. I am co-advised by Professors John Kitchin and Andrew Gellman. My research lies at the intersection between Density Functional Theory (DFT) and Machine Learning for heterogeneous catalysis and materials in general. In my PhD work, I collaborate with experimental research groups in the Chemical Engineering and Material Science Departments. I also collaborate with the Facebook AI Research Chemistry ([FAIR-Chem](https://fair-chem.github.io/)) team. 
 
-Research Contributions
+Publications
 ------
-**Investigating the error imbalance of large-scale machine learning potentials in catalysis** [[Royal Society of Chemistry](https://pubs.rsc.org/en/content/articlehtml/2024/cy/d4cy00615a)]\
-I investigated the effect of Density Functional Theory (DFT) data consistency on the errors of large-scale machine learning potentials. I showed that the Machine learning potentials are not affected by the convergence of the DFT calculations with respect to the DFT settings. I find that an abnormal behavior during a DFT calculation causes inconsistency in the referencing scheme and that removing the systems with this behavior reduces the machine learning errors by ~35%. I learned valuable insights about generating DFT datasets and training large-scale machine learning potentials.
+- **Investigating the Error Imbalance of Large-Scale Machine Learning Potentials in Catalysis** (*Catalysis Science & Technology*) [[Royal Society of Chemistry](https://pubs.rsc.org/en/content/articlehtml/2024/cy/d4cy00615a)]  **Abdelmaqsoud, K.**, Shuaibi, M., Kolluru, A., Cheula, R., & Kitchin, J. R.
+- **Structure-Sensitive Reaction Kinetics of Chiral Molecules on Intrinsically Chiral Surfaces** (*Journal of Physical Chemistry C*) [[American Chemical Society](https://pubs.acs.org/doi/full/10.1021/acs.jpcc.4c04224)]  **Abdelmaqsoud, K.**, Radetic, M., Fernandez-Caban, C., Widom, M., Kitchin, J. R., & Gellman, A. J.
+- **Uncertainty Quantification in Graph Neural Networks with Shallow Ensembles** (*Machine Learning: Science and Technology*) [[arXiv](https://arxiv.org/abs/2504.12627)]  Vinchurkar, T., **Abdelmaqsoud, K.**, & Kitchin, J. R.
+- **Computational Design of Ductile Additively Manufactured Tungsten-Based Refractory Alloys** (*Computational Materials Science*) [[arXiv](https://arxiv.org/abs/2601.11295)]  **Abdelmaqsoud, K.**, Sinclair, D., Karra, V. S. S. A., Taheri-Mousavi, S. M., Widom, M., Webler, B. A., & Kitchin, J. R.
+- **Electronic Structure and Elasticity of the Ta–W Solid Solution** (*Physical Review Materials*) [[arXiv](https://arxiv.org/abs/2601.09690)]  **Abdelmaqsoud, K.**, Kitchin, J. R., & Widom, M.
+- **UMA: A Family of Universal Models for Atoms** (*NeurIPS*) [[NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2025/hash/bbf23e81b0ad7637fe9a731d0b676ca6-Abstract-Conference.html)]  Wood, B. M., Dzamba, M., Fu, X., Gao, M., Shuaibi, M., Barroso-Luque, L., **Abdelmaqsoud, K.**, Gharakhanyan, V., Kitchin, J. R., Levine, D. S., Michel, K., Sriram, A., Cohen, T., Das, A., Rizvi, A., Sahoo, S. J., Ulissi, Z. W., & Zitnick, C. L.
+- **The Open DAC 2025 Dataset for Sorbent Discovery in Direct Air Capture** (*Nature Chemical Engineering*) [[arXiv](https://arxiv.org/abs/2508.03162)]  Sriram, A., Brabson, L. M., Yu, X., Choi, S., **Abdelmaqsoud, K.**, Moubarak, E., de Haan, P., Löwe, S., Brehmer, J., Kitchin, J. R., Welling, M., Zitnick, C. L., Ulissi, Z. W., Medford, A. J., & Sholl, D. S.
 
-**Structure Sensitive Reaction Kinetics of Chiral Molecules on Intrinsically Chiral Surfaces** [[American Chemical Society](https://pubs.acs.org/doi/full/10.1021/acs.jpcc.4c04224)]\
-I built machine learning models to fit the experimental data collected by our collaborators and used these models to draw insights about the structure sensitivity of the kinetics and design future experiments. 
-
-Industrial Experience
+Industry Experience
 ------
-**Iambic Therapeutics** (Jan 2022 – July 2022):\
-I interned in a machine learning for drug discovery startup, Iambic Therapeutics, as a machine learning engineer. I worked on optimizing pretraining and downstream models used for screening by the chemistry and biology teams. I implemented new model architectures from the literature and evaluated them based on the company's internal benchmarks. I learned about the work environment in a startup and improved my ability to communicate and collaborate with experimental collaborators\
+**Bosch USA** — Computational Materials Science Intern (May – August 2026, Watertown, MA)
+- Applied universal ML potentials to build a phase diagram of the Aluminum–Germanium (AlGe) alloy for semiconductor applications in MEMS devices.
+- Studied the effect of Si contamination on the phase stability and eutectic composition of the AlGe alloy.
+
+**Orbital Materials** — Machine Learning Researcher Intern (May – August 2025, Princeton, NJ)
+- Developed OrbMol, a large-scale ML potential trained on 100M organic molecular structures incorporating magnetism and charge effects.
+- Achieved state-of-the-art accuracy compared with existing molecular ML potentials.
+- Contributed to model architecture, large-scale dataset preparation, and training pipelines.
+
+**Entos (now Iambic Therapeutics)** — Machine Learning Engineer Intern (January – July 2022, Remote)
+- Performed hyperparameter tuning for the model used by the experimental drug discovery team to improve its accuracy.
+- Implemented new pretraining methods such as contrastive learning that led to a 20% improvement in accuracy.
+
+<!--
 **LafargeHolcim** (Summer 2019):\
 I interned with a construction materials company, LafargeHolcim, as a process engineer. I worked on designing a waste heat recovery system for the plant that could theoretically reduce the energy need of the plant by 3%. I also learned about the roles taken by process engineers and the decisions they make to ensure the safe operation of an industrial plant.
   
@@ -32,6 +46,7 @@ Extracurricular Activities
 ------
 Aside from academics, I am an education chair on the board of the Muslim Student Association (MSA) at Carnegie Mellon University. During my undergrad, I was one of the founders of a startup for using a novel membrane filtration technology to provide clean water for people living in Pakistan. My team was selected to represent the US National Academy of Engineering in the Global Grand Challenge Summit in London in September 2019. Using the funds we raised, We installed 10 water projects that will provide free clean water for over 2,000 people living in
 the remotest villages in Pakistan over the next 10-15 years. These activities improved my leadership, communication, and business skills.
+-->
 
 Recent News
 ------
