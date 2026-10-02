@@ -26,7 +26,7 @@ Industry Experience
 
 **Entos (now Iambic Therapeutics)** — Machine Learning Engineer Intern (January – July 2022, Remote)
 - Performed hyperparameter tuning for the model used by the experimental drug discovery team to improve its accuracy.
-- Implemented new pretraining methods such as contrastive learning that led to a 20% improvement in accuracy.
+- Implemented new pretraining methods such as contrastive learning that led to a 10–20% improvement in accuracy.
 
 Publications
 ------
